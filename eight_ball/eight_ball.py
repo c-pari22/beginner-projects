@@ -1,6 +1,4 @@
-import random 
 
-rand_choice = random.randint(0, 20)
 
 responses = {0: "Lee! Please!", 1: "If the fates will it, so it shall be.",
              2: "Do or do not. There is no try.", 3: "You are as clumsy as you are stupid." ,
